@@ -1,0 +1,7 @@
+WIX1001,Computing Math I,3
+WIX1002,Fundamental Of Programming,5
+WIX1003,Computer Systems And Organization,3
+WIA2010,Human Computer Interaction,3
+GLT1024,Proficiency In English III,2
+GIG1003,Basic Entreprenuership Enculturation,2
+GIG1013,Appreciation Of Ethics And Civilisations,2
