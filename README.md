@@ -1,6 +1,6 @@
-# GPA Calculator
+# GPA Calculator 📠
 
-A command-line GPA (Grade Point Average) calculator following the UM Grading Scheme (Universiti Malaya) written in Java that helps students calculate their semester GPA. 
+A GPA (Grade Point Average) calculator which is following the UM Grading Scheme (Universiti Malaya) written in Java that helps students calculate their semester GPA. 
 
 ## Features
 
@@ -16,26 +16,3 @@ A command-line GPA (Grade Point Average) calculator following the UM Grading Sch
 
 - Java Development Kit (JDK) 8 or higher installed
 - Text file containing subject information (`subjects.txt`)
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MarcusMQF/GPA-Calculator.git
-   ```
-
-2. Navigate to the project folder:
-   ```bash
-   cd your-repo-name
-   ```
-
-3. Compile the Java files:
-   ```bash
-   javac *.java
-   ```
-
-4. Run the program:
-   ```bash
-   java gpa_calculator
-   ```
-
